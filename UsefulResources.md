@@ -1,0 +1,1 @@
+- [New Spektrum SRXL2 Reciever](https://github.com/ArduPilot/ardupilot/pull/13923)
